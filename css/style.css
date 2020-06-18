@@ -1,1 +1,17 @@
+@font-face {
+    font-family: PressStart2P;
+    src: url(PressStart2P.ttf);
+  }
+  
+@font-face {
+    font-family: Minecraftia;
+    src: url(Minecraftia-Regular.ttf);
+  }
 
+  h1 {
+    font-family: PressStart2P;
+  }
+
+  h2 {
+    font-family: Minecraftia;
+  }
